@@ -3,9 +3,9 @@
 **Elixir project with exunit**
 
 ## Require
- elixir and erlang
+ Elixir and Erlang
 
-##Commands
+## Commands
 * Execute test's -> mix test
 
 ## Matchers
