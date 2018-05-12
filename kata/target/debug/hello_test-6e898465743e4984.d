@@ -1,0 +1,1 @@
+/home/hallorow/proyectos/kyokushinkai/kata/target/debug/hello_test-6e898465743e4984: /home/hallorow/proyectos/kyokushinkai/kata/src/hello.rs /home/hallorow/proyectos/kyokushinkai/kata/src/lib.rs /home/hallorow/proyectos/kyokushinkai/kata/tests/hello_test.rs
