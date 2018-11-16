@@ -1,16 +1,17 @@
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.Test;
 
-class KataTest {
+import static org.junit.Assert.*;
 
+public class KataTest {
     Kata someKata = new Kata();
 
-    @org.junit.jupiter.api.Test
-    void hello() {
+    @Test
+    public void hello() {
         assertEquals(someKata.hello(),"world");
     }
 
-    @org.junit.jupiter.api.Test
-    void hello1() {
+    @Test
+    public void hello1() {
         assertEquals(someKata.hello("Hello"), "Hello");
     }
 }

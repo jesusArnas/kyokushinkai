@@ -1,6 +1,6 @@
 # Kata
 
-**Java project with JUnit5**
+**Java project with JUnit4**
 
 ## Require
  Maven and JDK
@@ -10,4 +10,4 @@
 
 
 ## Matchers
- see: https://junit.org/junit5/docs/current/user-guide/
+ see: https://www.baeldung.com/junit-assertions
