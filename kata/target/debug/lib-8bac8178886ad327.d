@@ -1,1 +1,0 @@
-/home/hallorow/proyectos/kyokushinkai/kata/target/debug/lib-8bac8178886ad327: /home/hallorow/proyectos/kyokushinkai/kata/src/hello.rs /home/hallorow/proyectos/kyokushinkai/kata/src/lib.rs /home/hallorow/proyectos/kyokushinkai/kata/tests/lib.rs
